@@ -93,9 +93,14 @@ I enjoy learning new technologies, collaborating with teams, and building softwa
 
 ## 📫 Connect With Me
 
-* GitHub: **https://github.com/yourusername**
-* LinkedIn: **https://linkedin.com/in/yourprofile**
-* Email: **[your.email@example.com](mailto:your.email@example.com)**
+```md
+## 📫 Connect With Me
+
+- **GitHub:** https://github.com/Sonu1747
+- **LinkedIn:** https://www.linkedin.com/in/pal-sonu/
+- **Portfolio:** https://palportfolio.vercel.app/
+- **Email:** sonupal.5079078@gmail.com
+```
 
 ---
 
