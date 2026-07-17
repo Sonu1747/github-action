@@ -1,19 +1,104 @@
-# The Future in Tech
+# 🚀 Sonu Pal - Tech Portfolio
 
-<img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
+<img src="images\artwork.jpg" width="250">
 
-The [Future in Tech](https://go.raybo.org/tfit) is a weekly series powered by [LinkedIn Learning](https://www.linkedin.com/learning/) hosted by Senior Staff Instructor [Ray Villalobos](https://www.linkedin.com/in/planetoftheweb).
+Welcome to my personal portfolio repository! I'm **Sonu Pal**, an Information Technology graduate passionate about building scalable software, automation solutions, and data-driven applications.
 
-You can [watch it on LinkedIn](https://go.raybo.org/tfit-episodes) every Thursday at 2pm ET, 11am PT. The goal of this series is to spark conversations, provide practical tips and resources to help developers work, learn, and tackle challenges related to working in the technology industry.
+My journey in technology revolves around solving real-world problems through software development, backend engineering, artificial intelligence, and data analytics. Every project in this repository represents a step toward becoming a better engineer.
 
-We're talking about Generative AI tools like ChatGPT, Dall-E*2, Hugging Face by talking to some of the leaders delivering the tools, strategies and technologies that make working in technology exciting. We'll discuss how they broke into technology, business strategies, ethical concerns and technical skills.
+## 💻 What You'll Find Here
 
-You have a chance to hear from people who are not just talking about, but building the next generation tools like Open AI and leaders who've worked for and with Fortune 500 companies like Microsoft, Google, LinkedIn,  IBM,  Open AI and more.
+This repository showcases my work across different domains, including:
+
+* 🤖 AI-powered applications
+* 🌐 Full Stack Web Development
+* ⚡ Backend APIs with FastAPI
+* 🗄️ SQL & Database Design
+* 📊 Data Analytics & Power BI Dashboards
+* 🐍 Python Automation Tools
+* ☁️ Cloud & DevOps Fundamentals
+* 🔍 Machine Learning Experiments
+
+Each project is built with a focus on clean architecture, scalability, and practical problem-solving.
 
 ---
-## More Info
-- [The Future in Tech Page](https://go.raybo.org/tfit)
-- [Episode Guide](https://go.raybo.org/tfit-episodes)
-- [YouTube Playlist](https://go.raybo.org/tfit-youtube)
-- [Podcast Feed - Audio Only](https://go.raybo.org/tfit-feed-audio)
-- [Episode Newsletter](https://go.raybo.org/tfit-newsletter)
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+* Python
+* Java
+* JavaScript
+* SQL
+
+### Frameworks & Libraries
+
+* FastAPI
+* React
+* Tailwind CSS
+* Streamlit
+* Pandas
+* NumPy
+* Scikit-learn
+
+### Databases
+
+* PostgreSQL
+* MySQL
+* SQLite
+
+### Tools
+
+* Git & GitHub
+* VS Code
+* Power BI
+* Docker
+* Postman
+
+---
+
+## 🎯 Career Objective
+
+I am actively seeking opportunities as a:
+
+* Software Engineer
+* Backend Developer
+* Full Stack Developer
+* DevOps Engineer
+* Data Analyst
+
+I enjoy learning new technologies, collaborating with teams, and building software that creates meaningful impact.
+
+---
+
+## 📌 Current Focus
+
+* Improving Data Structures & Algorithms
+* Building scalable backend systems
+* Learning cloud technologies
+* Creating AI-powered applications
+* Enhancing system design knowledge
+
+---
+
+## 📈 GitHub Goals
+
+* Build impactful open-source projects
+* Share reusable code and learning resources
+* Contribute to developer communities
+* Continuously improve coding and problem-solving skills
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: **https://github.com/yourusername**
+* LinkedIn: **https://linkedin.com/in/yourprofile**
+* Email: **[your.email@example.com](mailto:your.email@example.com)**
+
+---
+
+> *"Success is built one commit, one bug fix, and one learning experience at a time."*
+
+⭐ If you find my projects useful or interesting, consider giving them a star!
