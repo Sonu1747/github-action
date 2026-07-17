@@ -1,3 +1,4 @@
+
 title: My Journey in Tech
 subtitle: From Student to Software Professional
 author: Sonu Pal
@@ -6,7 +7,7 @@ image: /images/myjourney.jpg
 language: en-us
 category: Personal Journey
 format: audio/mpeg
-
+link: https://sonu1747.github.io/github-action/
 item:
   - title: EP01-Where My Journey Began
     description: I started my B.Tech in Information Technology with a passion for technology and a dream of building a successful career in software development and data analytics.
@@ -42,4 +43,3 @@ item:
     file: /audio/EP05.mp3
     duration: 00:04:00
     length: 980,000
-```
