@@ -94,7 +94,6 @@ I enjoy learning new technologies, collaborating with teams, and building softwa
 ## 📫 Connect With Me
 
 ```md
-## 📫 Connect With Me
 
 - **GitHub:** https://github.com/Sonu1747
 - **LinkedIn:** https://www.linkedin.com/in/pal-sonu/
